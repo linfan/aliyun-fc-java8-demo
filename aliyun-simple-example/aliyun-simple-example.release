@@ -1,0 +1,7 @@
+baseline.jdk=ali-jdk-8.2.3
+build.tools.maven=maven3.2.5
+build.tools.maven.settings=tao
+code.language=java
+build.command=mvn clean package
+build.output.nottgz=True
+build.output=lib/demo-1.0-SNAPSHOT.jar
