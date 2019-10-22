@@ -7,5 +7,5 @@
 - 执行入口(Handler): example.App::handleRequest
 - Initializer: example.App::initialize
 - Runtime: java8
-- 子目录: /
+- 子目录: aliyun-simple-example
 
