@@ -1,6 +1,6 @@
-baseline.jdk=ali-jdk-8.2.3
+baseline.jdk=jdk-1.8.0_25
 build.tools.maven=maven3.2.5
-build.tools.maven.settings=tao
+build.tools.maven.settings=default
 code.language=java
 build.command=mvn clean package
 build.output.nottgz=True
